@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "Vladi",
+    "password": "Djdfxrf2000djdfdb",
+    "database": "graphics_store",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "Vladi",
+    "password": "Djdfxrf2000djdfdb",
+    "database": "graphics_store",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "Vladi",
+    "password": "Djdfxrf2000djdfdb",
+    "database": "graphics_store",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
